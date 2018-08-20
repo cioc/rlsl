@@ -6,7 +6,7 @@ Reinforcement Learning for Skip Lists
 
 ![uniform play](https://raw.githubusercontent.com/cioc/rlsl/master/content/uniform.gif)
 
-The advent of deep reinforcement learning - with strong results in Atari, Go, and other Games -  enables us to reimagine how we build systems. Instead of carefully constructing of policies, systems programmers can focus on creating small, but correct, submodules and training agents to combine these submodules into higher program behavior. These systems outperform the classical programs based on fixed policies by continuously adapting to user access patterns in real time. To prove out this idea, we trained a deep q-learning model to construct skip list internal structures to minimize key lookup time. Our agent performs well in the presence of uniform as well as peaked access.           
+The advent of deep reinforcement learning - with strong results in Atari, Go, and other Games -  enables us to reimagine how we build systems. Instead of carefully constructing policies, systems programmers can focus on creating small, but correct, submodules and training agents to combine these submodules into higher program behavior. These systems outperform the classical programs based on fixed policies by continuously adapting to user access patterns in real time. To prove out this idea, we trained a deep q-learning model to construct skip list internal structures to minimize key lookup time. Our agent performs well in the presence of uniform as well as peaked access.           
 
 ## Skip Lists
 
